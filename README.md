@@ -2,9 +2,11 @@
 
 Student from China.
 
-![Zerick's GitHub stats](https://github-readme-stats.vercel.app/api?username=origin76&show_icons=true&theme=dark)
+https://github-readme-stats-alpha-eight-36.vercel.app/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=origin76&show_icons=true&theme=dark)
+![Zerick's GitHub stats](https://github-readme-stats-alpha-eight-36.vercel.app/api?username=origin76&show_icons=true&theme=dark)
+
+![Top Langs]((https://github-readme-stats-alpha-eight-36.vercel.app/api/top-langs/?username=origin76&show_icons=true&theme=dark)
 
 
 <!--
