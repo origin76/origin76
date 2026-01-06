@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi there, I'm Zerick
+
+Student from China.
+
+![Zerick's GitHub stats](https://github-readme-stats.vercel.app/api?username=origin76&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=origin76&show_icons=true&theme=dark)
+
 
 <!--
 **origin76/origin76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
