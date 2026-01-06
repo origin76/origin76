@@ -14,13 +14,11 @@ Computer Science student from China, interested in systems.
     width="48%"
     style="vertical-align: top;"
   />
-
   <img
     src="https://github-readme-stats-alpha-eight-36.vercel.app/api/wakatime?username=zerick&layout=compact&theme=dark"
     width="48%"
     style="vertical-align: top;"
   />
-
 </div>
 
 ### What I'm working on
