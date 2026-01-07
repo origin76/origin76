@@ -15,7 +15,7 @@ Computer Science student from China, interested in systems.
     style="vertical-align: top;"
   />
   <img
-    src="https://github-readme-stats-alpha-eight-36.vercel.app/api/wakatime?username=zerick&layout=compact&theme=dark"
+    src="https://github-readme-stats-alpha-eight-36.vercel.app/api/wakatime?username=zerick&theme=dark"
     width="48%"
     style="vertical-align: top;"
   />
